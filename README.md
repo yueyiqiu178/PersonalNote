@@ -3,4 +3,4 @@
 啟動mongodb  
 mongod -dbpath D:\mongodb\data
 
-你好啊
+http://taobaofed.org/blog/2016/08/18/react-redux-connect/
