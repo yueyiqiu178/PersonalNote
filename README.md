@@ -3,6 +3,9 @@
 啟動mongodb  
 mongod -dbpath D:\mongodb\data
 
+進入mongo shell
+mongo
+
 git remote add origin https://github.com/yueyiqiu178/Pos.git
 
 git push -u origin master
