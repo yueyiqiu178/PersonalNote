@@ -17,3 +17,6 @@ http://taobaofed.org/blog/2016/08/18/react-redux-connect/
 SET SQL_SAFE_UPDATES=0
 
 https://blog.51cto.com/dafengzi/1343088
+
+
+多執行續範例進度
