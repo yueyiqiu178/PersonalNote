@@ -20,4 +20,4 @@ https://blog.51cto.com/dafengzi/1343088
 
 
 多執行續範例進度
-chapter01.section07.thread_1_7_1.project_1_t11;
+chapter01.section08.thread_1_8_2.project_1_suspend_resume_deal_lock
